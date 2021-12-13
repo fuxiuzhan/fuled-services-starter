@@ -9,7 +9,7 @@
     </parent>
     <groupId>com.fxz</groupId>
     <artifactId>fuled-services-starter</artifactId>
-    <version>1.0.0.WaterDrop</version>
+    <version>1.1.0.WaterDrop</version>
     <name>fuled-services-starter</name>
     <description>fuled-services-starter</description>
     <properties>
@@ -24,7 +24,7 @@
         <dependency>
             <groupId>com.fxz.component</groupId>
             <artifactId>fuled-config-starter</artifactId>
-            <version>1.0.0.WaterDrop</version>
+            <version>1.1.0.WaterDrop</version>
         </dependency>
         <dependency>
             <groupId>com.fxz.component</groupId>
@@ -50,6 +50,16 @@
             <groupId>com.fxz.component</groupId>
             <artifactId>fuled-logger-starter</artifactId>
             <version>1.0.0.WaterDrop</version>
+        </dependency>
+        <dependency>
+            <groupId>com.fxz.component</groupId>
+            <artifactId>fuled-common</artifactId>
+            <version>1.0.0.WaterDrop</version>
+        </dependency>
+        <dependency>
+            <groupId>com.fxz.component</groupId>
+            <artifactId>fuled-env-encryptor-starter</artifactId>
+            <version>1.1.0.WaterDrop</version>
         </dependency>
     </dependencies>
 </project>
