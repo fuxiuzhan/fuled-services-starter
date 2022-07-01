@@ -33,7 +33,7 @@
         </dependency>
         <dependency>
             <groupId>com.fxz.component</groupId>
-            <artifactId>fuled-threadpool-monitor-starter</artifactId>
+            <artifactId>fuled-dynamic-threadpool-starter</artifactId>
             <version>1.0.0.WaterDrop</version>
         </dependency>
         <dependency>
@@ -63,12 +63,12 @@
         </dependency>
         <dependency>
             <groupId>com.fxz.component</groupId>
-            <artifactId> fuled-cat-starter</artifactId>
+            <artifactId>fuled-cat-starter</artifactId>
             <version>1.0.0.WaterDrop</version>
         </dependency>
         <dependency>
             <groupId>com.fxz.component</groupId>
-            <artifactId> fuled-skywalking-starter</artifactId>
+            <artifactId>fuled-skywalking-starter</artifactId>
             <version>1.0.0.WaterDrop</version>
         </dependency>
     </dependencies>
