@@ -71,5 +71,10 @@
             <artifactId>fuled-skywalking-starter</artifactId>
             <version>1.0.0.WaterDrop</version>
         </dependency>
+        <dependency>
+            <groupId>com.fxz.component</groupId>
+            <artifactId>fuled-dynamic-redis-starter</artifactId>
+            <version>1.0.0.WaterDrop</version>
+        </dependency>
     </dependencies>
 </project>
