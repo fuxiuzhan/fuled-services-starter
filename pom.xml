@@ -33,7 +33,7 @@
         </dependency>
         <dependency>
             <groupId>com.fxz.component</groupId>
-            <artifactId>fuled-simple-cache-starter</artifactId>
+            <artifactId>fuled-common-cache-starter</artifactId>
             <version>1.0.0.WaterDrop</version>
         </dependency>
         <dependency>
