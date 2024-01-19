@@ -33,17 +33,7 @@
         </dependency>
         <dependency>
             <groupId>com.fxz.component</groupId>
-            <artifactId>fuled-common-cache-starter</artifactId>
-            <version>1.0.0.WaterDrop</version>
-        </dependency>
-        <dependency>
-            <groupId>com.fxz.component</groupId>
             <artifactId>fuled-dynamic-threadpool-starter</artifactId>
-            <version>1.0.0.WaterDrop</version>
-        </dependency>
-        <dependency>
-            <groupId>com.fxz.component.plugin.dynamic.threadpool.reporter</groupId>
-            <artifactId>reporter-prometheus</artifactId>
             <version>1.0.0.WaterDrop</version>
         </dependency>
         <dependency>
